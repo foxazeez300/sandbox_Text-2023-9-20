@@ -25,8 +25,8 @@ void setup() {
   //
   // DIVs or rect()
   // Layout our text space and typographical features
-  //rect( xTitle, yTitle, widthTitle, heightTitle );
-  //rect( xFooter, yFooter, widthFooter, heightFooter );
+  rect( xTitle, yTitle, widthTitle, heightTitle );
+  rect( xFooter, yFooter, widthFooter, heightFooter );
   //
   // Text Setup
   // Fonts from OS (Operating System)
@@ -59,7 +59,7 @@ void draw() {
   //
   //
   //rect(  ); //Title: 
-  //rect(   ); //Footer: 
+  //rect(  ); //Footer: 
 } //End draw
 //
 void keyPressed() {} // End keyPressed
