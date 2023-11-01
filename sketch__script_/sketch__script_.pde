@@ -18,6 +18,7 @@ void setup() {
   yTitle = appHeight*1/10;
   widthTitle = appWidth*1/2;
   heightTitle= appHeight*2/10;
+  //
   xFooter = xTitle;
   yFooter = appHeight*7/10;
   widthFooter = widthTitle;
